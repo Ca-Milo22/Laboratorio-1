@@ -1,3 +1,4 @@
+# Ejercicio: Convierte minutos totales a horas y minutos restantes.
 total_minutos = 367
 
 horas = total_minutos // 60
