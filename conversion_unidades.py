@@ -1,3 +1,4 @@
+# Ejercicio: Convierte kilómetros a metros, centímetros y millas.
 kilometros = float(input("Distancia en kilómetros: "))
 
 metros = kilometros * 1000
