@@ -1,3 +1,4 @@
+# Ejercicio: Calcula el promedio de tres notas.
 nota_1 = 4.2
 nota_2 = 3.8
 nota_3 = 4.5
