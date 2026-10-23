@@ -1,3 +1,4 @@
+# Ejercicio: Calcula subtotal, descuento y total de una compra con valores fijos.
 precio = 85000.0
 cantidad = 3
 porcentaje_descuento = 0.10
