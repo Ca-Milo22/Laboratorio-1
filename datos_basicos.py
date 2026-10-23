@@ -1,3 +1,4 @@
+# Ejercicio: Practica variables, tipos de datos y reasignación de valores.
 producto = "Teclado"
 cantidad = 3
 precio = 85000.0
