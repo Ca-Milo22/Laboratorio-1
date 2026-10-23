@@ -1,3 +1,4 @@
+# Ejercicio: Pide dos números y muestra las operaciones aritméticas básicas.
 numero_1 = int(input("Primer número: "))
 numero_2 = int(input("Segundo número: "))
 
