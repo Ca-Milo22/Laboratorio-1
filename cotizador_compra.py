@@ -1,3 +1,4 @@
+# Ejercicio: Aplicación integradora: cotizador de compra con descuento e impuesto.
 print("=============================")
 print("      COTIZADOR PYTHON")
 print("=============================")
