@@ -1,3 +1,4 @@
+# Ejercicio: Muestra el estado inicial y el actualizado de un producto.
 producto = "Monitor"
 unidades = 8
 precio = 720000.0
