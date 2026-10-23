@@ -1,3 +1,4 @@
+# Ejercicio: Genera una factura con subtotal, descuento, base, impuesto y total.
 nombre_producto = "Teclado"
 precio_unitario = 100000.0
 cantidad = 2
