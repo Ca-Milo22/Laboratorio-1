@@ -1,3 +1,4 @@
+# Ejercicio: Solicita datos al usuario con input() y los muestra en un resumen.
 nombre = input("Nombre: ")
 ciudad = input("Ciudad: ")
 edad = int(input("Edad: "))
