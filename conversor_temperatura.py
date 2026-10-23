@@ -1,3 +1,4 @@
+# Ejercicio: Convierte grados Celsius a Fahrenheit.
 celsius = float(input("Temperatura en °C: "))
 
 fahrenheit = (celsius * 9 / 5) + 32
