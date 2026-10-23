@@ -1,3 +1,4 @@
+# Ejercicio: Muestra el perfil de un aprendiz usando variables y f-strings.
 nombre = "Andrea"
 edad = 20
 trimestre = 5
