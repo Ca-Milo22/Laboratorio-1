@@ -1,3 +1,4 @@
+# Ejercicio: Practica la reasignación de variables y predice su salida.
 nombre = "Ana"
 edad = 19
 
