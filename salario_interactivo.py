@@ -1,3 +1,4 @@
+# Ejercicio: Pide horas y valor por hora y calcula el pago total.
 nombre = input("Nombre del trabajador: ")
 horas = int(input("Horas trabajadas: "))
 valor_por_hora = float(input("Valor por hora: "))
