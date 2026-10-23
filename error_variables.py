@@ -1,3 +1,4 @@
+# Ejercicio: Practica la declaración de variables de distintos tipos.
 nombre = "Carlos"
 edad = 20
 promedio = 4.5
