@@ -1,3 +1,4 @@
+# Ejercicio: Imprime una presentación personal con formato.
 print("=========================")
 print("      PRESENTACIÓN")
 print("=========================")
