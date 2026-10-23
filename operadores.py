@@ -1,3 +1,4 @@
+# Ejercicio: Practica los operadores aritméticos de Python.
 a = 10
 b = 3
 
