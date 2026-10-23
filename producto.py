@@ -1,3 +1,4 @@
+# Ejercicio: Muestra los datos de un producto y una constante de impuesto.
 codigo = 105
 nombre = "Mouse inalámbrico"
 categoria = "Periféricos"
