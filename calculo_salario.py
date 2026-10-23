@@ -1,3 +1,4 @@
+# Ejercicio: Calcula el pago total de un trabajador y su aporte del 4 %.
 nombre = "Sara"
 horas_trabajadas = 36
 valor_por_hora = 20000.0
